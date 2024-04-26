@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+venv/
+.vscode/
+
+# IDE/Editor specific files
+.idea/
+*.iml
+*.pyc
+*.swp
+
+# Compiled Python bytecode
+*.pyc
+
+# Environment variables file
+.env
+
+# Logs
+*.log
+
+# Cache
+*.cache/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Dependency directories
+lib/
+libs/
+dist/
+build/
+bin/
